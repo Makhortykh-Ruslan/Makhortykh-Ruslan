@@ -1,9 +1,10 @@
-# Hi! ✌🏼😉 Ruslan
+# Hi! ✌🏼😉 Ruslan Frontend Developer
 
 I'm a **Frontend Developer** with 4+ years of experience building modern Angular and React applications.  
 While my main focus is on the frontend, I also work with Node.js and backend APIs when needed.
 
-## 🛠️ Tech Stack
+
+## 🛠️ Tech Stacks
 
 <p align="left">
   <!-- JavaScript -->
@@ -28,25 +29,22 @@ While my main focus is on the frontend, I also work with Node.js and backend API
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" alt="RxJS" width="40" height="40"/>
   
   <!-- NgRx -->
-  <img src="https://raw.githubusercontent.com/ngrx/platform/main/projects/ngrx.io/src/assets/images/badge.svg" alt="NgRx" width="40" height="40"/>
+  <img src="https://ngrx.io/assets/images/badge.png" alt="NgRx" width="40" height="40"/>
   
   <!-- NGXS -->
-  <img src="https://avatars.githubusercontent.com/u/40694894?s=200&v=4" alt="NGXS" width="40" height="40"/>
+  <img src="https://www.ngxs.io/~gitbook/image?url=https%3A%2F%2F1552117493-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-L9CoGJCq3UCfKJ7RCUg%252Flogo%252Fa2XQbuZKmOPP07bavDhw%252Fngxs-logo_light_theme.png%3Falt%3Dmedia%26token%3D6e29c3ef-4dc1-41f0-9577-31e618ab23f0&width=260&dpr=2&quality=100&sign=1e72e7a0&sv=2" alt="NGXS" width="70" height="40"/>
   
   <!-- Redux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  
-  <!-- Angular Material -->
-  <img src="https://raw.githubusercontent.com/angular/components/main/docs/angular-material-icon.svg" alt="Angular Material" width="40" height="40"/>
   
   <!-- MUI -->
   <img src="https://mui.com/static/logo.png" alt="MUI" width="40" height="40"/>
   
   <!-- Tailwind CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="40" height="40"/>
   
   <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js" width="70" height="40"/>
   
   <!-- Express -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
