@@ -1,7 +1,6 @@
 # Hi! ✌🏼😉 Ruslan Frontend Developer
 
-I'm a **Frontend Developer** with 4+ years of experience building modern Angular and React applications.  
-While my main focus is on the frontend, I also work with Node.js and backend APIs when needed.
+I'm a **Frontend Developer** with 4+ years of experience building modern Angular and React applications.
 
 
 ## 🛠️ Tech Stacks
