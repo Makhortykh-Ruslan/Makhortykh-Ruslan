@@ -3,17 +3,6 @@
 I'm a **Frontend Developer** with 4+ years of experience building modern Angular and React applications.  
 While my main focus is on the frontend, I also work with Node.js and backend APIs when needed.
 
-## 💼 Experience
-
-- 4+ years of professional experience in frontend development 
-- Delivered scalable applications using Angular (14–17+) and React (16–18+)  
-- Built and maintained products in insurance, legal tech, logistics, e-commerce, and productivity domains  
-- Worked on both greenfield and legacy enterprise applications  
-- Familiar with backend stack: **Node.js**, **Express**, **MongoDB** (used in internal tools and prototypes)
-
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -66,30 +55,6 @@ While my main focus is on the frontend, I also work with Node.js and backend API
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 </p>
 
-
-
-## 🛠 What I work with
-
-- Angular Standalone Components & Signals
-- React + Hooks + Zustand
-- Reactive Forms, Zod, Yup, FormControl
-- Localization: `react-i18next`, `ngx-translate`
-- State management: NGXS, Zustand
-- Performance optimizations (OnPush, memo, Signals)
-- OAuth integrations (QuickBooks, Supabase)
-- Testing: Jest, Cypress (learning phase)
-
----
-
-## ❤️ What I enjoy
-
-- Writing clean, well-structured code
-- Refactoring legacy into modern architecture
-- Exploring browser internals (DOM, Event Loop, rendering)
-- Working on meaningful, real-world projects
-- Learning modern patterns & applying them immediately
-
----
 
 ## 📫 Contact
 
