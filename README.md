@@ -1,5 +1,3 @@
-# Ruslan — Frontend Developer (Angular & React)
-
 I'm a **Frontend Developer** with 4+ years of experience building scalable, performant web applications using **Angular** and **React**. I focus on clean architecture, maintainable code, and modern UI/UX practices.
 
 ---
@@ -18,13 +16,6 @@ I'm a **Frontend Developer** with 4+ years of experience building scalable, perf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" alt="RxJS" width="40" />
   <img src="https://mui.com/static/logo.png" alt="MUI" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" />
-</p>
-
-### ⚙️ Backend (Basic Knowledge)
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
 </p>
 
 ---
