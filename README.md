@@ -1,7 +1,5 @@
 I'm a **Frontend Developer** with 4+ years of experience building scalable, performant web applications using **Angular** and **React**. I focus on clean architecture, maintainable code, and modern UI/UX practices.
 
----
-
 ## 🛠 Tech Stack
 
 ### 💻 Frontend
@@ -17,8 +15,6 @@ I'm a **Frontend Developer** with 4+ years of experience building scalable, perf
   <img src="https://mui.com/static/logo.png" alt="MUI" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" />
 </p>
-
----
 
 ## 📫 Contact
 
