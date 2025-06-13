@@ -1,17 +1,17 @@
-I'm a **Frontend Developer** with 5+ years of experience building scalable, performant web applications using **Angular** and **React**. I focus on clean architecture, maintainable code, and modern UI/UX practices.
+## 👋 About Me
+I'm a Frontend Developer with 5+ years of experience building scalable, high-performance web applications using Angular and React.
+I specialize in clean architecture, maintainable code, and modern UI/UX practices that improve both developer and user experience.
 
 ## 🛠 Tech Stack
 
-### 💻 Frontend
-
-lang
+Languages & Core Web Tech
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
 </p>
 
-Tools:
+Frameworks & Libraries
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
@@ -21,4 +21,4 @@ Tools:
 
 ## 📫 Contact
 
-- Email: [makhortykh.ruslan@gmail.com](mailto:makhortykh.ruslan@gmail.com)
+- [Email](mailto:makhortykh.ruslan@gmail.com)
