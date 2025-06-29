@@ -1,2 +1,3 @@
-I'm a Frontend Developer with 5+ years of experience building scalable, high-performance web applications using Angular and React.
-I specialize in clean architecture, maintainable code, and modern UI/UX practices that improve both developer and user experience.
+I'm a Frontend Developer with 5+ years of real-world experience delivering production-ready web apps using Angular and React.
+I focus on architecture that scales, code that survives, and a workflow that's typed & chilled — fast iterations, strict TypeScript, clear responsibility, no chaos.
+Passionate about building systems that are not only functional, but easy to reason about, test, and evolve.
