@@ -1,4 +1,7 @@
-I’m a Frontend Engineer with 5+ years of hands-on experience building production-ready web applications using Angular, React, Next.js and TypeScript.
-I focus on architecture that scales, code that lasts, and processes that keep teams fast and sane — typed, predictable, and maintainable.
+Frontend Engineer · Angular · React · Next.js · TypeScript
 
-Passionate about building frontend systems that are easy to reason about, test, and evolve. I care deeply about developer experience, performance, and long-term maintainability.
+5+ years building production web apps across Insurance, LegalTech, EdTech, and Logistics.
+I treat AI as a pair programming partner — with tools like Cursor I stay in charge of architecture and logic while shipping significantly faster.
+
+My core stacks are Angular (v7→latest) and React / Next.js. Led full legacy migrations, designed large-scale architectures with RxJS and NGXS, and know the React ecosystem end-to-end.
+I care about code that lasts — clean architecture, real ownership, and teams that move fast without breaking things.
