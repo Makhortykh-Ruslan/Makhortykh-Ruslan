@@ -1,16 +1,16 @@
-Frontend Engineer with 5+ years of commercial experience building production web applications across LegalTech, Insurance, Logistics, EdTech, and E-commerce.
+Frontend Engineer — Angular, React, Next.js, TypeScript.
 
-I think about frontend in layers:
+5+ years building production apps across LegalTech, Insurance, Logistics, and EdTech.
 
-Foundation — how the browser works: rendering pipeline, Browser APIs, HTTP & WebSocket communication, security, offline/PWA patterns, performance optimization, and system design. This is what doesn't change regardless of framework.
+**What I've shipped:**
+- Real-time logistics chat — React, Redux, WebSockets, optimistic UI, offline state
+- US legal tech platform — full Angular+ migration, NGXS state redesign, CI/CD with GitHub Actions
+- Insurance CRM — LiqPay payments, Diia auth, Google Calendar API
+- Online chat app (in progress) — Next.js, Supabase, Tailwind CSS
 
-Engineering — how to build it right: scalable architecture, Core Web Vitals, testing strategy, observability. This is what separates engineers from developers.
+**Stack:**
+Angular · React · Next.js · TypeScript · RxJS · NGXS · NgRx · Redux Toolkit · Zustand · TanStack Query · Tailwind CSS · MUI · Vite · Supabase · Jest · Vitest · Cypress
 
-Language — HTML, CSS, JavaScript, TypeScript.
+**Open to:** Senior Frontend roles — remote, EU or USA.
 
-Tools — Angular, React, Next.js, RxJS, NgRx, NGXS, Redux Toolkit, Zustand, TanStack Query, Tailwind CSS, MUI, Angular Material, Vite, Supabase, Jest, Vitest, Cypress. These change. The foundation doesn't.
-
-My core stacks are Angular (v7→latest) and React / Next.js — two fundamentally different tools, and I'm genuinely fluent in both.
-I take ownership seriously — I don't wait to be asked. When I see something broken, I propose a fix. When someone junior joins, I make sure they land well.
-
-I use AI as a pair programming partner — staying in charge of architecture and logic while delivering significantly faster.
+makhortykh.ruslan@gmail.com
