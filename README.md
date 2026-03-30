@@ -11,6 +11,4 @@ Frontend Engineer — Angular, React, Next.js, TypeScript.
 **Stack:**
 Angular · React · Next.js · TypeScript · RxJS · NGXS · NgRx · Redux Toolkit · Zustand · TanStack Query · Tailwind CSS · MUI · Vite · Supabase · Jest · Vitest · Cypress
 
-**Open to:** Senior Frontend roles — remote, EU or USA.
-
 makhortykh.ruslan@gmail.com
