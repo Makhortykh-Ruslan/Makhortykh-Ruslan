@@ -10,10 +10,11 @@ I build the harness around AI coding agents — specs, lint-enforced architectur
 
 ## What I do
 
-- **Frontend architecture.** I led a year-long rewrite of a legacy Angular 7 platform to a modern codebase — while the live product kept shipping features with no release freeze. Then kept it current, upgrading step by step to Angular 22.
-- **AI-augmented development.** I design the harness around AI coding agents: specs as contracts, automated hook pipelines (lint / format / self-review on every task), CI-verified test gates. Correctness checks live in CI, not in my eyes — so several tasks run in parallel without losing quality.
-- **Real-time systems.** Built an internal messenger for a logistics client from zero to production in 4 months (React, Redux, WebSockets) — with reconnection and delivery-guarantee logic for unstable field networks.
-- **Product ownership.** Built an admin CRM end to end: Angular 22, NgRx Signal Store, Signal Forms, PrimeNG with full dark/light theming, strict `component → facade → store` architecture. Docker + deployment pipeline included.
+- **I design systems before I write code.** Layered architecture, strict dependency rules, state ownership — decided up front and enforced by tooling, so the design survives contact with deadlines and teammates. The frameworks are interchangeable; the thinking is not.
+- **I take on rewrites and legacy others avoid.** Led a year-long migration of a legacy Angular 7 platform to a modern codebase while the live product kept shipping — no release freeze. Then kept it evolving, version by version, up to Angular 22.
+- **I make delivery verifiable, not just fast.** Around AI coding agents I build the harness — specs as contracts, architecture rules in ESLint, CI test gates — so correctness is checked by the system, not by someone's eyes. That's what lets several workstreams run in parallel without quality drift.
+- **I own products end to end.** An admin CRM from empty repo to Dockerized deployment; a real-time messenger from zero to production in 4 months, with delivery guarantees over unstable networks. When something needs an owner, that can be me.
+- **I set the bar for the team, not just for my code.** Made the frontend technical decisions for a cross-functional team, onboarded two frontend engineers, and put the review and development process in place — the codebase stayed consistent as the team grew.
 
 ## Selected repositories
 
